@@ -1,0 +1,82 @@
+spark architecture-----
+
+
+difference between view and materialized view
+
+difference between cooalscene and repartition and use
+
+sql, window functions
+
+lambda layers
+
+cluster managers
+
+flatten list
+
+joins
+
+genarator and decorator
+
+
+
+
+
+Df bw dynamic df and rdd? And use Broadcast joins What are all sources when s3 landed with object , what will invoke lambda Flatten list and joins Glue optimizations Broadcast joins in pyspark 
+
+
+
+
+repartition, coalscene, if worker nodes are in sufficient what will do in this situation in spark, architrectrure for getting data
+
+
+
+
+
+
+
+
+
+streaming services, how can u setup data aws kinesis into aws dynamodb
+
+seeting up optimixzations when we are having larges set of data
+
+aws kinesis--lambda--dynamodb
+
+glue etl---s3-glue--dynamodb by using batch processing
+
+ 
+
+why parquet?
+
+ 
+
+broadcast join what is the use
+
+ 
+
+?
+
+  streaming services, how can u setup data aws kinesis into aws dynamodb
+
+seeting up optimixzations when we are having larges set of data
+
+aws kinesis--lambda--dynamodb
+
+glue etl---s3-glue--dynamodb by using batch processing
+
+ 
+I am doing hands on aws services s3, batch operations, lambda, dynamodb for loading gb's of data and storing into tables
+
+ 
+ I have been orchestrating ETL  which includes amazon services  like step functions and glue and storing into redshift
+
+ 
+what is the dfrnce between lambda nd glue
+
+ 
+if u have 1 tbs of data which u cant tread csv file, if increase cpu, it cant read what do u do then?
+
+ 
+difference between pandas and spark
+
+  
